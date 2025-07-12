@@ -3,7 +3,7 @@
 A simple, beginner-friendly To-Do list application built using Python. This project features both a **desktop GUI** built with PySimpleGUI and a **web interface** using Streamlit. It's a great example of integrating file operations, UI libraries, and Python best practices into one cohesive productivity tool.  
 (Done in 2023)
 
-## 🚀 Features
+## Features
 
 - Add, edit, and complete to-do items
 - Desktop GUI using **PySimpleGUI**
