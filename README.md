@@ -12,13 +12,5 @@ A simple, beginner-friendly To-Do list application built using Python. This proj
 
 ## To run the desktop version:
 
-```bash
-python gui.py
+<pre> ```bash python gui.py ``` </pre>
 
- Web App (Streamlit)
-To launch the web version:
-
-bash
-Copier
-Modifier
-streamlit run web.py
