@@ -14,3 +14,11 @@ A simple, beginner-friendly To-Do list application built using Python. This proj
 
 ```bash
 python gui.py
+
+ Web App (Streamlit)
+To launch the web version:
+
+bash
+Copier
+Modifier
+streamlit run web.py
